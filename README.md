@@ -14,8 +14,12 @@ Creating the function as per requirement shown below and running the function.
 Running the script with the organization_id as input
 ![callling_function](https://github.com/Chetan-Bangera/Chetanbangera_python_assign_bde/blob/380e2b682ac91c20f9dec85e236c222736cc4aa0/img/Screenshot%202021-11-05%20142026.png)
 
+##### Creating a virtual env and importing all the file mentioned in requiremnt.txt
+
+Installing the file and making the connection with the Postgresql and running the db.py file will get the results.
 
 
+## End
 
 
 
